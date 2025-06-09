@@ -21,6 +21,9 @@ int main()
         memiliki 3 elemen */
     }
     cout << "baris program yang terakhir " << endl;
+    /*penanda 2: bahwa program berjalan tanpa berhenti 
+    meskipun terjadi kesalahan*/
 
+    return 0;
 
 }
